@@ -3,3 +3,5 @@ A shortened C/C++ implementation of CRC16-CCIT calculating function based on imp
 
 A python implementation can be found here:
   * https://github.com/sarukoushi/pycrc16ccit
+
+Let me know if you see any problems/errors, or if the code could be improved.
